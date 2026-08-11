@@ -124,7 +124,7 @@ Kali Linux
 👤 Author  
 Solomon Alaba  
 Cybersecurity Intern (B082)
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/solomon-alaba-391b0228b/ 
 
 📌 Project Info  
 Program: Cybersecurity at Networkwalks | Week 01 | Project: Lab Setup | Repository: GitHub
