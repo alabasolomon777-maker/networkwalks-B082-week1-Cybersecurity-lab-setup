@@ -94,10 +94,8 @@ Snapshot restore → Baseline recovered
 
 🐞 Challenges & Fixes
 
-Internet loss after static IP setup → Adjusted with nmcli configuration.
-
-Virtualization error → Enabled Intel VT-x in BIOS/UEFI.
-
+Network was not listed among the tools section in the Virtual Box file menu.
+This was resolved to uninstalling and reinstalling the Virtual Box
 💡 Key Learnings
 
 Difference between NAT and NAT Network
